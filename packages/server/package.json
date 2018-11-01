@@ -5,5 +5,6 @@
   "license": "MIT",
   "dependencies": {
     "@galactica/common": "^0.0.1"
-  }
+  },
+  "gitHead": "3e35ec7cca03aa6d54e9be7e37344d455ce63d98"
 }
