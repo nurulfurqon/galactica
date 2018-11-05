@@ -1,7 +1,9 @@
 {
   "name": "galactica",
   "private": true,
-  "workspaces": ["packages/*"],
+  "workspaces": [
+    "packages/*"
+  ],
   "devDependencies": {
     "lerna": "^3.4.3"
   },
