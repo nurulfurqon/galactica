@@ -4,9 +4,11 @@
   ],
   "comand": {
     "publish": {
-      "allowBranch": "master",
-      "ignoreChanges": [
-        "*.md"
+      "ignore": [
+        "*.md",
+        "*.json",
+        "*.txt",
+        "package.json"
       ]
     }
   },
